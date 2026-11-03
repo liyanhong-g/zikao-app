@@ -10,8 +10,7 @@
 **不用装任何东西。** 直接用下面 `发布包` 里的 `ZikaoApp.exe` 双击即可。
 （已内置 .NET 运行环境，Win10 / Win11 64 位均可）
 
-> 如果你拿到的是「框架依赖版」（体积很小），需要先装：
-> **.NET 8 Desktop Runtime**（微软官网搜这个名字，装完重启即可）
+发布包：https://github.com/liyanhong-g/zikao-app/releases/tag/v1.0.0
 
 ---
 
